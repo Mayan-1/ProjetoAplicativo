@@ -2,9 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="blue">#08A5E9 </color>
-    <color name="yellow">#F9F015</color>
-    <color name="blue_light">#00BFFF</color>
+    <color name ="blue"> #08A5E9 </color>
+    <color name="yellow"> #F9F015</color>
+    <color name="blue_light"> #00BFFF</color>
     <color name="dark_cyan">#00BFFF</color>
+    <color name="pink">#E46571</color>
+    <color name="purple">#6587E6</color>
+    
 
 </resources>
